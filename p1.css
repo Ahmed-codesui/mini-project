@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.div1{
+    background-color: #06556d;
+    font-family: Lobster Two,Roboto Mono ; 
+    text-align: center;
+    color: #8FE3CF;
+
+}
+
+.cloud1{
+     margin-right: 500px;
+}
+ 
+.cloud2{
+    margin-left: 500px;
+}
+
+.div2{
+    font-family: Lobster Two,Roboto Mono; 
+    text-align: center;
+    color: #0b1b42;
+}
+.para{
+    color: #40514E;
+}
+.pg{
+    color: #40514E;
+    line-height: 35px;
+    float: right;
+    margin-right: 300px;
+    text-align: justify;
+    /* margin-bottom: 20px; */
+}
+.pg1{
+    float:left;
+    margin-left: 200px;
+    margin-top: -100px;
+}
+.pg h3{
+
+    color: #0b1b42;
+}
+
+.div3{
+    font-family: Lobster Two,Roboto Mono; 
+    color: #0b1b42;
+    text-align: center;
+}
+.div3 p{
+    color: #40514E;
+    line-height: 25px;
+    text-align: center;
+}
+
+button {
+  padding: 17px 40px;
+  border-radius: 50px;
+  cursor: pointer;
+  border: 0;
+  background-color:  rgb(6, 105, 123);
+  box-shadow: rgb(0 0 0 / 5%) 0 0 8px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  font-size: 15px;
+  transition: all 0.5s ease;
+  color: white;
+}
+
+button:hover {
+  letter-spacing: 4px;
+  background-color: rgb(6, 105, 123);
+  color: hsl(0, 0%, 100%);
+  box-shadow: rgb(6, 105, 123) 0px 7px 29px 0px;
+}
+
+button:active {
+  letter-spacing: 3px;
+  background-color: hsl(6, 105, 123);
+  color: hsl(0, 0%, 100%);
+  box-shadow: rgb(6, 105, 123) 0px 0px 0px 0px;
+  transform: translateY(10px);
+  transition: 100ms;
+}
+.logo{
+    text-align: left;
+    margin-left: 50px;
+}
